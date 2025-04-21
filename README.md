@@ -80,8 +80,8 @@ Responsive navigation, adaptive layout components, and optimized content loading
 
 ## 🚀 Technical Stack
 
-- **Frontend:** HTML, CSS, JavaScript (React if applicable)
-- **Design Framework:** Custom CSS / TailwindCSS / Bootstrap (depending on your stack)
+- **Frontend:** HTML, CSS, React
+- **Design Framework:** Custom CSS, TailwindCSS 
 - **APIs:** Custom APIs for prediction and plan retrieval
 - **Deployment:** Vercel
 
